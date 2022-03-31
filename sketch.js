@@ -18,7 +18,7 @@ function preload() {
 
 function setup() {
 
-  createCanvas(1600, 1000);
+  createCanvas(1600, 100);
   frameRate(18);
 
   meatSprite = new Sprite(5, 5, meat);
